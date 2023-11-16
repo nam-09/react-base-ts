@@ -1,0 +1,165 @@
+.img_28 img {
+  width: 1366px;
+  height: 348px;
+  flex-shrink: 0;
+}
+.form {
+  width: 1240px;
+  height: 563px;
+  flex-shrink: 0;
+  margin: 149px 63px 110px 63px;
+  display: flex;
+  justify-content: space-between;
+}
+.information {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  height: 269px;
+  flex-shrink: 0;
+  text-align: start;
+}
+.information h5 {
+  text-align: start;
+}
+.information h6 {
+  text-align: start;
+}
+.form-h2 {
+  color: #3a3939;
+
+  /* Section/Title */
+  font-family: Arimo;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 48px; /* 133.333% */
+}
+.form-h4 {
+  width: 788px;
+  height: 25px;
+  flex-shrink: 0;
+  color: var(--text, #555);
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.input_name input {
+  width: 400px;
+  height: 58px;
+  flex-shrink: 0;
+  border: 1px solid #ebebeb;
+  background: #fff;
+}
+.input_name {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.input_message input {
+  width: 820px;
+  height: 188px;
+  flex-shrink: 0;
+  border: 1px solid #ebebeb;
+  background: #fff;
+  margin-top: 12px;
+  margin-bottom: 24px;
+}
+.name {
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+  margin-top: 48px;
+  color: var(--text, #555);
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.name input {
+  margin-top: 8px;
+}
+.email {
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+  margin-top: 48px;
+  color: var(--text, #555);
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.email input {
+  margin-top: 8px;
+}
+.input_message {
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+  color: var(--text, #555);
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.button button {
+  width: 192px;
+  height: 58px;
+}
+.button {
+  display: flex;
+  text-align: start;
+}
+.visit {
+  width: 350px;
+  height: 107px;
+  flex-shrink: 0;
+  margin-bottom: 48px;
+}
+.visit h6 {
+  margin-top: 0px;
+  color: var(--text, #555);
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.visit h5 {
+  margin-bottom: 12px;
+  color: var(--heading, #1d1d1d);
+  font-family: Arimo;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 48px; /* 200% */
+}
+.gettouch {
+  width: 350px;
+  height: 107px;
+  flex-shrink: 0;
+}
+.gettouch h5 {
+  margin-bottom: 12px;
+  color: var(--heading, #1d1d1d);
+  font-family: Arimo;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 48px; /* 200% */
+}
+.gettouch h6 {
+  margin-top: 0px;
+  color: var(--text, #555);
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}

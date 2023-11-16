@@ -1,0 +1,140 @@
+#shoppingcart{
+  margin-bottom: 107px;
+}
+.shopping_span span {
+  display: flex;
+}
+.shopping_span {
+  color: #888;
+  font-family: Arimo;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  margin: 40px 868px 75px 63px;
+}
+.shop_p {
+  color: black;
+}
+.container_shoppingcart {
+  width: 1240.001px;
+  height: 530px;
+  flex-shrink: 0;
+  margin-left: 63px;
+  margin-top: 75px;
+}
+.header_shopp {
+  width: 1240px;
+  height: 40px;
+  flex-shrink: 0;
+  display: flex;
+  margin: 0px 63px 107px 63px;
+}
+.header_shopp h6 {
+  margin-left: 50px;
+}
+.product_1 h6 {
+  color: var(--heading, #1d1d1d);
+  font-family: Arimo;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 275px;
+  margin-bottom: 17px;
+  margin-top: 0px;
+}
+.product_1 p {
+  text-align: right;
+  margin-top: 52.43px;
+}
+.price_1 h6 {
+  color: var(--heading, #1d1d1d);
+  font-family: Arimo;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 254px;
+  margin-bottom: 17px;
+  margin-top: 0px;
+}
+.price_1 p {
+  text-align: right;
+  margin-top: 52.43px;
+}
+.quantity_1 h6 {
+  color: var(--heading, #1d1d1d);
+  font-family: Arimo;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 172px;
+  margin-bottom: 17px;
+  margin-top: 0px;
+}
+.quantity_1 p {
+  text-align: right;
+  margin-top: 52.43px;
+  /* border: 2px solid rgb(240, 240, 240); */
+}
+.total_1 h6 {
+  color: var(--heading, #1d1d1d);
+  font-family: Arimo;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 131px;
+  margin-bottom: 17px;
+  margin-top: 0px;
+}
+.total_1 p {
+  text-align: right;
+  margin-top: 52.43px;
+}
+
+.carttotals_h2 h2 {
+  text-align: left;
+}
+.cart_totals {
+  height: 92px;
+  width: 522px;
+}
+.subtotal_1 {
+  display: flex;
+  justify-content: space-between;
+}
+.shipping_free {
+  display: flex;
+  justify-content: space-between;
+}
+.carttotals_total {
+  display: flex;
+  justify-content: space-between;
+}
+.carttotals_button {
+  text-align: left;
+  margin-top: 41px;
+}
+.carttotals_button Button {
+  width: 262px;
+  height: 58px;
+  background: var(--Secondary, #d6763c);
+}
+.cart_proceed {
+  color: #fff;
+  text-align: center;
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px; /* 137.5% */
+  text-transform: uppercase;
+  display: inline-flex;
+  padding: 18px 36px;
+  align-items: flex-end;
+  gap: 10px;
+}
